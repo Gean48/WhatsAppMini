@@ -1,11 +1,11 @@
 {
- "version":"8.86",
+ "version":"8.87",
  "expire881":"365",
  "expire870":"180",
  "store":"1",
  "rewards":"",
  "title":"Atualização disponível",
- "description":"A atualização 8.86 está disponível, inclui novas funções e suporte para os novos emojis WhatsApp. Toque em atualizar para fazer o download.",
+ "description":"A atualização 8.87 está disponível, inclui novos efeitos de transição e acesso a loja AFA Temas.",
  "download":"https://modsalfa.blogspot.com/2020/05/yxwa-alfa.html",
  "users_premium":"",
  "force":"true"
