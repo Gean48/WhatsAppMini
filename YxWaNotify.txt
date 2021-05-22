@@ -1,15 +1,15 @@
 [
 {
-   "title":"Quer ganhar 55 reais?",
-   "description":"Com o novo bônus do Tiktok Lite você ganha R$55 por cada amigo que você convidar, ta esperando o que?",
+   "title":"Ja segue Dom Gean no Instagam?",
+   "description":"Siga Dom Gean no Instagram ;)",
    "request":"null",
    "type":"official",
-   "ok":"instalar",
+   "ok":"seguir",
    "cancell":"talvez depois",
-   "ok_toast":"Não esquece de dar um joinha no video ;) ",
+   "ok_toast":"Não esquece de ver os stories ;) ",
    "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
-   "is_web":"https://youtu.be/x60Q09zHAgg",
-   "id":"tiktok",
+   "is_web":"https://www.instagram.com/dom_gean/?hl=pt-br",
+   "id":"tinstagram",
    "cancelable":"false"
 },
 {
