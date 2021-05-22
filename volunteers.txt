@@ -1,4 +1,4 @@
-[{#n
+[{
    "name":"Grupo",
    "number":"https://t.me/AMGrupo"
 }]
