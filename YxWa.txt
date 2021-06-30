@@ -1,6 +1,6 @@
 {
  "version":"8.88F",
- "expire881":"365",
+ "expire881":"36",
  "expire870":"180",
  "store":"1",
  "rewards":"",
