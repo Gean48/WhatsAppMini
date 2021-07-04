@@ -1,3 +1,4 @@
+[
 {
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
@@ -6,4 +7,4 @@
  "button_url":"entrar",
  "url":"https://t.me/AMGrupo",
  "id":"bd0101010o1"
-}
+}]
