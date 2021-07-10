@@ -1,7 +1,7 @@
 {
   "down":"tags", 
   "category_title_1":"Dom Gean", 
-  "category_tags_1":"Gean", 
+  "category_tags_1":"Dom Gean", 
   "category_title_color_1":"#ffffff", 
   "category_background_color_1":"#", 
   "category_title_2":"Vaga 01", 
