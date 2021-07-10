@@ -1,7 +1,7 @@
 {
  "version":"8.88F",
  "expire881":"365",
- "expire870":"180",
+ "expire870":"150",
  "store":"1",
  "rewards":"",
  "title":"Atualização disponível",
