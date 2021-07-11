@@ -239,5 +239,5 @@
   "theme_preview_3":"https://telegra.ph/file/20b1e108081830f096387.jpg",
   "theme_download_noads":"https://jaguarface.com/jf/cick",
   "theme_download":"https://jaguarface.com/jf/cick"
-},
+}
 ]
