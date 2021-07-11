@@ -1,11 +1,11 @@
 {
- "version":"8.88F",
+ "version":"8.88Fix",
  "expire881":"365",
  "expire870":"150",
  "store":"1",
  "rewards":"",
- "title":"Atualização disponível",
- "description":"A atualização 8.88F está disponível, inclui novos efeitos de transição para bolhas e emojis.",
+ "title":"Atualização 8.88Fix disponível",
+ "description":"A atualização 8.88F está disponível, agora inclui a loja de temas nele mesmo para facilitar o download.",
  "download":"https://modsalfa.blogspot.com/2020/05/yxwa-alfa.html",
  "users_premium":"",
  "force":"true"
