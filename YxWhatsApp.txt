@@ -6,7 +6,7 @@
  "rewards":"",
  "title":"Atualização 8.88 disponível",
  "description":"A atualização 8.88 está disponível, agora inclui a loja de temas nele mesmo para facilitar o download.",
- "download":"https://modsalfa.blogspot.com/2020/05/yxwa-alfa.html",
+ "download":"https://modsalfa.blogspot.com/2020/12/yxwhatsapp.html",
  "users_premium":"",
  "force":"true"
 }
