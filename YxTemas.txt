@@ -2,6 +2,42 @@
 
 {
   "theme_server":"LJaguar",
+  "theme_name":"Naruto",
+  "theme_user":"Dom Gean",
+  "theme_date":"20 de julho",
+  "theme_size":"1.52 MB",
+  "theme_preview_1":"https://telegra.ph/file/92985014e0dc92adaaa3c.jpg",
+  "theme_preview_2":"https://telegra.ph/file/dc7012d895b89b4858739.jpg",
+  "theme_preview_3":"https://telegra.ph/file/cd9f10498787c83591e56.jpg",
+  "theme_download_noads":"https://www.mediafire.com/file/jnmligdvrtcsnml/Naruto.zip/file",
+  "theme_download":"https://jaguarface.com/jf/8NKzB"
+},
+{
+  "theme_server":"LJaguar",
+  "theme_name":"Fofo 01",
+  "theme_user":"Dom Gean",
+  "theme_date":"20 de julho",
+  "theme_size":"396.79 KB",
+  "theme_preview_1":"https://telegra.ph/file/dba7c8598a05cd2e02e8b.jpg",
+  "theme_preview_2":"https://telegra.ph/file/59f1346e93291beb584fe.jpg",
+  "theme_preview_3":"https://telegra.ph/file/dabfeff2c9af425b62357.jpg",
+  "theme_download_noads":"https://www.mediafire.com/file/4q2x0qrfg64rl3s/Fofo_01.zip/file",
+  "theme_download":"https://jaguarface.com/jf/olZ"
+},
+{
+  "theme_server":"LJaguar",
+  "theme_name":"Vegeta",
+  "theme_user":"Dom Gean",
+  "theme_date":"20 de julho",
+  "theme_size":"1.29 MB",
+  "theme_preview_1":"https://telegra.ph/file/94c59a466c8a1f5c8959b.jpg",
+  "theme_preview_2":"https://telegra.ph/file/fcba3f9f79e410dbb646f.jpg",
+  "theme_preview_3":"https://telegra.ph/file/f4ebba0a3057d6be6e24a.jpg",
+  "theme_download_noads":"https://www.mediafire.com/file/360x8vxbxtd4eyu/Vegeta.zip/file",
+  "theme_download":"https://jaguarface.com/jf/xwVbP5t"
+},
+{
+  "theme_server":"LJaguar",
   "theme_name":"IOS Dark",
   "theme_user":"Dom Gean",
   "theme_date":"15 de junho",
