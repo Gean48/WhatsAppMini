@@ -4,8 +4,8 @@
  "expire870":"150",
  "store":"1",
  "rewards":"",
- "title":"Atualização 8.88Ext disponível",
- "description":"A atualização 8.88Ext está disponível, agora inclui a loja de temas nele mesmo para facilitar o download.",
+ "title":"Atualização 8.92.1 disponível",
+ "description":"A atualização 8.92.1 está disponível, agora inclui a loja de temas nele mesmo para facilitar o download.",
  "download":"https://modsalfa.blogspot.com/2020/05/yxwa-alfa.html",
  "users_premium":"",
  "force":"true"
