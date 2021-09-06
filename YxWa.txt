@@ -1,11 +1,11 @@
 {
- "version":"8.92",
- "expire881":"365",
- "expire870":"150",
+ "version":"8.93.1",
+ "expire881":"1000",
+ "expire870":"1000",
  "store":"1",
  "rewards":"",
- "title":"Atualização 8.92.1 disponível",
- "description":"A atualização 8.92.1 está disponível, agora inclui a loja de temas nele mesmo para facilitar o download.",
+ "title":"Atualização disponível 🛠️",
+ "description":"Uma nova atualização está disponível e inclui uma nova opção bem legal 👀",
  "download":"https://modsalfa.blogspot.com/2020/05/yxwa-alfa.html",
  "users_premium":"",
  "force":"true"
