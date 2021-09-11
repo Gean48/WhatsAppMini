@@ -1,11 +1,11 @@
 {
- "version":"8.88",
+ "version":"8.86",
  "expire881":"365",
  "expire870":"150",
  "store":"1",
  "rewards":"",
- "title":"Atualização 8.88 disponível",
- "description":"A atualização 8.88 está disponível, agora inclui a loja de temas nele mesmo para facilitar o download.",
+ "title":"Atualização 8.86 disponível",
+ "description":"A atualização 8.86 está disponível, agora inclui a loja de temas nele mesmo para facilitar o download.",
  "download":"https://modsalfa.blogspot.com/2020/12/yxwhatsapp.html",
  "users_premium":"",
  "force":"true"
