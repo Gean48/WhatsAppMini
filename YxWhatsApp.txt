@@ -1,12 +1,12 @@
 {
- "version":"8.86F",
- "expire881":"365",
- "expire870":"150",
+ "version":"8.96F",
+ "expire881":"1000",
+ "expire870":"1000",
  "store":"1",
  "rewards":"",
- "title":"Atualização 8.86F disponível",
- "description":"A atualização 8.86F está disponível, agora inclui a loja de temas nele mesmo para facilitar o download.",
- "download":"https://modsalfa.blogspot.com/2020/12/yxwhatsapp.html",
+ "title":"Atualização disponível 🛠️",
+ "description":"Uma nova atualização está disponível e inclui uma nova opção bem legal 👀",
+ "download":"https://seulink.online/qotLR",
  "users_premium":"",
  "force":"true"
 }
