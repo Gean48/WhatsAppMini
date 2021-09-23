@@ -1,12 +1,12 @@
 {
- "version":"8.96F",
+ "version":"8.97",
  "expire881":"1000",
  "expire870":"1000",
  "store":"1",
  "rewards":"",
- "title":"Atualização disponível 🛠️",
- "description":"Uma nova atualização está disponível e inclui uma nova opção bem legal 👀",
- "download":"https://seulink.online/qotLR",
+ "title":"Atualização disponível V8.97",
+ "description":"Uma nova atualização está disponível com novas bolhas e ticks 😍",
+ "download":"https://youtu.be/2tVr88kKeeA",
  "users_premium":"",
  "force":"true"
 }
