@@ -1,12 +1,12 @@
 {
- "version":"8.97",
+ "version":"8.98",
  "expire881":"1000",
  "expire870":"1000",
  "store":"1",
  "rewards":"",
- "title":"Atualização disponível V8.97",
+ "title":"Atualização disponível V8.98",
  "description":"Uma nova atualização está disponível com novas bolhas e ticks 😍",
- "download":"https://youtu.be/2tVr88kKeeA",
+ "download":"https://seulink.online/f2pdptOXk",
  "users_premium":"",
  "force":"true"
 }
