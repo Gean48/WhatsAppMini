@@ -1,5 +1,5 @@
 {
- "version":"9.11F",
+ "version":"9.05",
  "title":"Atualização disponível 🛠️",
  "description":"Uma nova atualização está disponível e incluí opção para separar grupos, modo DND, esconder conversas e muito mais.",
  "download":"https://www.nswhatsapp.org/p/ns-whatsapp-pagina-de-download.html"
