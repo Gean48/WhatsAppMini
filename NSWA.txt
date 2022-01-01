@@ -2,6 +2,6 @@
  "version":"1.0.1",
  "title":"Atualização disponível 🛠️",
  "description":"Uma nova atualização está disponível e incluí opção para separar grupos, modo DND, esconder conversas e muito mais.",
- "download":"https://t.me/yxwagroup"
+ "download":"https://www.nswhatsapp.org/p/ns-whatsapp-pagina-de-download.html"
 }
 
