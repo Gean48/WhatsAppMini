@@ -1,6 +1,6 @@
 {
  "version":"9.20",
- "title":"Atualização disponível 🛠️",
- "description":"Temos outros recursos.",
+ "title":"Atualização disponível V9.21🛠️",
+ "description":"Uma nova atualização está disponível e oferece o recurso de status visualizado 👏🏻🚀",
  "download":"https://www.nswhatsapp.org/p/ns-whatsapp-pagina-de-download.html"
 }
