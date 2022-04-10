@@ -1,6 +1,6 @@
 {
  "version":"9.25",
- "title":"Atualização disponível V9.21🛠️",
- "description":"Uma nova atualização está disponível e oferece o recurso de status visualizado 👏🏻🚀",
+ "title":"Atualização disponível V9.27🛠️",
+ "description":"Uma nova atualização do NSWhatsApp está disponível e oferece o correções de erros 👏🏻🚀",
  "download":"https://www.nswhatsapp.org/p/ns-whatsapp-pagina-de-download.html"
 }
