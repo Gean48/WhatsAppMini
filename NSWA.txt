@@ -1,6 +1,6 @@
 {
  "version":"9.27",
- "title":"Atualização disponível V9.27🛠️",
- "description":"Uma nova atualização do NSWhatsApp está disponível e oferece correções de erros 👏🏻🚀",
+ "title":"Atualização disponível V9.27F🛠️",
+ "description":"Meus temas (extrair temas\n\nEfeitos de queda\n\nEfeitos de transição\n\nNovos ticks\n\nNovas bolhas\n\nOutras correções",
  "download":"https://www.nswhatsapp.org/p/ns-whatsapp-pagina-de-download.html"
 }
