@@ -1,5 +1,5 @@
 {
- "version":"9.27",
+ "version":"9.29",
  "title":"Atualização disponível V9.29",
  "description":"veja no site as informações sobre a nova atualização 🚀",
  "download":"https://www.nswhatsapp.org/p/ns-whatsapp-pagina-de-download.html"
