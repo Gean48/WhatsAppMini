@@ -1,6 +1,6 @@
 {
  "version":"9.29",
- "title":"Atualização disponível V9.29",
- "description":"veja no site as informações sobre a nova atualização 🚀",
+ "title":"Atualização disponível V9.30",
+ "description":"Atualização da base 2.22.10.73\n\nNovos emojis\n\nOuvir nota de voz após a saída do bate-papo em segundo plano\n\nAdicionado opção Confirmar antes de enviar Status\n\nEntre outras coisas 👏🏻🚀",
  "download":"https://www.nswhatsapp.org/p/ns-whatsapp-pagina-de-download.html"
 }
