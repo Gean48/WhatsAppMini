@@ -1,6 +1,6 @@
 {
- "version":"9.30",
- "title":"Atualização disponível V9.30",
- "description":"Atualização da base 2.22.10.73\n\nNovos emojis\n\nOuvir nota de voz após a saída do bate-papo em segundo plano\n\nAdicionado opção Confirmar antes de enviar Status\n\nEntre outras coisas 👏🏻🚀",
+ "version":"9.30F",
+ "title":"Atualização disponível V9.30F",
+ "description":"Atualize por aqui!\n\Corrigido a privacidade do grupo não está nas configurações do grupo\n\nCorrigido show de bate-papo oculto na pesquisa\n\nCorrigido copiar legenda para mídia\n\nEntre outras correções 👏🏻🚀",
  "download":"https://www.nswhatsapp.org/p/ns-whatsapp-pagina-de-download.html"
 }
