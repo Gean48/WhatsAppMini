@@ -1,6 +1,6 @@
 {
- "version":"9.35",
- "title":"Atualização disponível V9.35",
+ "version":"9.40F",
+ "title":"Atualização disponível V9.40F",
  "description":"Atualize por aqui!\n\Corrigido a privacidade do grupo não está nas configurações do grupo\n\nCorrigido show de bate-papo oculto na pesquisa\n\nCorrigido copiar legenda para mídia\n\nEntre outras correções 👏🏻🚀",
- "download":"https://www.nswhatsapp.org/p/ns-whatsapp-pagina-de-download.html"
+ "download":"https://bit.ly/3RDpPVc"
 }
