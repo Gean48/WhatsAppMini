@@ -1,6 +1,6 @@
 {
- "version":"9.35",
+ "version":"9.40F",
  "title":"Atualização disponível V9.40F",
- "description":"Atualize por aqui!\n\Corrigido a privacidade do grupo não está nas configurações do grupo\n\nCorrigido show de bate-papo oculto na pesquisa\n\nCorrigido copiar legenda para mídia\n\nEntre outras correções 👏🏻🚀",
+ "description":"Atualização da base para 2.22.17.76\n\nEnquete em conversa de Grupo\n\nCapacidade de compartilhar várias imagens/vídeos/arquivos ao mesmo tempo do bate-papo para aplicativos externos\n\nPrivacidade online! Você pode escolher quem pode ver quando está online\n\nSair dos grupos secretamente sem que todas as pessoas saibam\n\nReações rápidas ao status",
  "download":"https://bit.ly/3RDpPVc"
 }
