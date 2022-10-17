@@ -1,7 +1,7 @@
 {
- "version":"9.41",
- "title":"Nova atualização 9.41 🛠️",
- "description":"CORRIGIDO Excluir mensagens de administradores em grupos que não funcionavam corretamente\n\nCORRIGIDO o estilo caseiro não funcionava\n\nCORRIGIDO as linhas de furto não funcionam\n\nCORRIGIDO o bloqueio do WhatsApp não funcionava\n\nCORRIGIDO Ocultar atualização de status recentemente/visualizada/silenciada não está funcionando\n\nCORRIGIDO Emblema de administrador aparecendo para membros aleatórios",
- "download":"https://bit.ly/3RDpPVc"
+ "version":"9.45",
+  "force_update":"false",       
+  "title":"Atualização disponível 9.45 🛠️",
+  "description":"Uma nova atualização está disponível e incluí novos recursos e correções de bugs.",
+  "download":"https://www.whatsmods.com.br/2018/07/ns-whatsapp-atualizado.html"
 }
-
