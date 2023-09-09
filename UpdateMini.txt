@@ -1,5 +1,5 @@
 {
- "version":"9.45",
+ "version":"1.22",
   "force_update":"false",       
   "title":"Base Atualizada para 2.23.15.78 🛠",
   "description":"Novo: Mensagens de vídeo ativadas\n Novo: Adicionado mensagens anti-edição\n Novo: Estilo de tela inicial\n Novo: Foto de perfil na tela inicial\n Novo: Baixar mídias personalizado\n Novo: Fixar status\n Novo: Mudar cor das bolhas\n Novo: Baixar fotos de perfil/grupos\n Entre outras coisas",
