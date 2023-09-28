@@ -1,7 +1,7 @@
 {
- "version":"1.22",   
+ "version":"1.23",   
   "force_update":"false",    
-  "title":"Base Atualizada para 2.23.15.78 🛠",
-  "description":" Novo: Mensagens de vídeo ativadas\n Novo: Adicionado mensagens anti-edição\n Novo: Estilo de tela inicial\n Novo: Foto de perfil na tela inicial\n Novo: Baixar mídias personalizado\n Novo: Fixar status\n Novo: Mudar cor das bolhas\n Novo: Baixar fotos de perfil/grupos\n Entre outras coisas",
-  "download":"https://miniencurtafly.blogspot.com/2021/02/gerando-download.html?m=1#?o=6818c86dddb1f94322e435f3b91af4ae289ecf35207684eb0370e06e28b3923eb50be8bb3a3bd31c1c3e60a897ef7e5c1888307dcfbacda2ed15b8b6447cef87a50ccd19eabedd9928509584b4e5d7dbcb31d46ed6e6674f"
+  "title":"Base Atualizada para 2.23.17.81 🛠",
+  "description":" Novo: Salvar recurso para novas mensagens de vídeo\n Novo: Ativado adicionar mais de uma conta\n Novo: Change font, agora pode escolher font diretamente do armazenamento do celular\n Entre outras coisas",
+  "download":"https://telegra.ph/WhatsApp-Mini-09-15"
 }
