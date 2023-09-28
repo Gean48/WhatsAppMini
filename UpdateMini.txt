@@ -1,5 +1,5 @@
 {
- "version":"1.22",   
+ "version":"1.23",   
   "force_update":"false",    
   "title":"Base Atualizada para 2.23.17.81 🛠",
   "description":" Novo: Salvar recurso para novas mensagens de vídeo\n Novo: Ativado adicionar mais de uma conta\n Novo: Change font, agora pode escolher font diretamente do armazenamento do celular\n Entre outras coisas",
