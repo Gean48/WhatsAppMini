@@ -1,5 +1,5 @@
 {
- "version":"1.24",   
+ "version":"1.24F",   
   "force_update":"false",    
   "title":"Base Atualizada para 2.23.24.12 🛠",
   "description":" Novo: Adicionado opção pra mudar cor do nome admin\n Novo: Removido ícone de admin, e adicionado nome\n Novo: Adicionado tradutor na tela de conversa\n Novo: Seu nome na tela inicial foi adicionado\n Novas cores e ícones adicionados\n Corrigido: Separar chats na nova interface",
