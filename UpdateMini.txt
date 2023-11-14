@@ -1,7 +1,7 @@
 {
  "version":"1.23",   
   "force_update":"false",    
-  "title":"Base Atualizada para 2.23.17.81 🛠",
-  "description":" Novo: Salvar recurso para novas mensagens de vídeo\n Novo: Ativado adicionar mais de uma conta\n Novo: Change font, agora pode escolher font diretamente do armazenamento do celular\n Entre outras coisas",
+  "title":"Base Atualizada para 2.23.24.12 🛠",
+  "description":" Novo: Adicionado opção pra mudar cor do nome admin\n Novo: Removido ícone de admin, e adicionado nome\n Novo: Adicionado tradutor na tela de conversa\n Novo: Seu nome na tela inicial foi adicionado\n Novas cores e ícones adicionados\n Corrigido: Separar chats na nova interface",
   "download":"https://telegra.ph/WhatsApp-Mini-09-15"
 }
