@@ -1,7 +1,7 @@
 {
- "version":"1.24Fix",   
+ "version":"1.24Ext",   
   "force_update":"false",    
-  "title":"Base Atualizada para 2.23.24.12 🛠",
-  "description":" Novo: Adicionado canal de áudios\n Novo: Adicionado canal de aplicativos\n Corrigido: Ocultar segundo tick",
+  "title":"Atualização de extensão",
+  "description":"Retirando aviso para atualizar em XX dias",
   "download":"https://telegra.ph/WhatsApp-Mini-09-15"
 }
