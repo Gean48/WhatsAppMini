@@ -2,6 +2,6 @@
  "version":"1.25",   
   "force_update":"false",    
   "title":"🚨 Base Atualizada para 2.24.1.76 🚨",
-  "description":"🔹 Novo: Opção para ativar aba de atualizações\n 🔹 Novo: Adicionado novo backup e restauração\n 🔹 Novo: Adicionado modo fantasma\n 🔹 Novo: menu pop-up do IOS\n 🔹 Novo: anexar estilo\n 🔹 Novo: a opção Anti-View Once funciona para áudios\n 🔹 Novo: download automático de mídia",
+  "description":" 🔹 Novo: Opção para ativar aba de atualizações\n 🔹 Novo: Adicionado novo backup e restauração\n 🔹 Novo: Adicionado modo fantasma\n 🔹 Novo: menu pop-up do IOS\n 🔹 Novo: anexar estilo\n 🔹 Novo: a opção Anti-View Once funciona para áudios\n 🔹 Novo: download automático de mídia",
   "download":"https://alfa-mods.blogspot.com/2024/02/whatsapp-mini.html"
 }
